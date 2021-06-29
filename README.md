@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Secriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Key-CN&show_icons=true&title_color=FC4349&text_color=6DBCDB&icon_color=F3B562&bg_color=FFFFFF&include_all_commits=true&count_private=true&)](https://github.com/Key-CN)
+[![Key's GitHub stats](https://github-readme-stats.vercel.app/api?username=Key-CN&show_icons=true&include_all_commits=true&count_private=true&&show_icons=true&theme=dark)
+](https://github.com/Key-CN)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Key-CN&hide=css,html&layout=compact&card_width=450)](https://github.com/Key-CN)
+[![Key's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Key-CN&hide=css,html&layout=compact&card_width=450&theme=dark)](https://github.com/Key-CN)

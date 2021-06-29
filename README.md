@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Key's GitHub stats](https://github-readme-stats.vercel.app/api?username=Key-CN&show_icons=true&include_all_commits=true&count_private=true&&show_icons=true&theme=dark)
 ](https://github.com/Key-CN)
 
-[![Key's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Key-CN&hide=css,html&layout=compact&card_width=450&theme=dark)](https://github.com/Key-CN)
+[![Key's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Key-CN&hide=css,html&layout=compact&card_width=450&theme=dark)](https://github.com/Key-CN?tab=repositories)
